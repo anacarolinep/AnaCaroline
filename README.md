@@ -1,6 +1,6 @@
  ## Oi eu sou Ana Caroline ##
  
- 
+
  <div align="center">
   <a href="https://github.com/AnaCarolineie">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaCarolineie&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
